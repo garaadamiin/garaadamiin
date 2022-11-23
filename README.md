@@ -13,15 +13,14 @@
 <a href="https://stackoverflow.com/users/11426595/garaad-amiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11426595/garaad-amiin" height="30" width="40" /></a>
 </p>
 
-<!--                                                     Profile Views                                                     -->
+<!--                                           Profile Views                                           -->
 <p align="center"> <img width="150" src="https://komarev.com/ghpvc/?username=garaadamiin&label=Profile%20views&color=0e75b6&style=flat" alt="garaadamiin" /> </p>
-<!--                                                     /Profile Views                                                     -->
+<!--                                         /Profile Views                                         -->
+<!--                                         Most Languages                                         -->
 
-<!--                                                     Most Languages                                                     -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=garaadamiin&show_icons=true&locale=en&layout=compact" alt="garaadamiin" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garaadamiin&show_icons=true&locale=en&layout=compact" alt="garaadamiin" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=garaadamiin&show_icons=true&locale=en" alt="garaadamiin" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garaadamiin&show_icons=true&locale=en" alt="garaadamiin" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garaadamiin&" alt="garaadamiin" /></p>
-<!--                                                     /Most Languages                                                     -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=garaadamiin&" alt="garaadamiin" /></p>
+<!--                                         /Most Languages                                         -->
