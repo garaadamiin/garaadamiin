@@ -14,7 +14,7 @@
 </p>
 
 <!--                                                     Profile Views                                                     -->
-<p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=garaadamiin&label=Profile%20views&color=0e75b6&style=flat" alt="garaadamiin" /> </p>
+<p align="center"> <img width="150" src="https://komarev.com/ghpvc/?username=garaadamiin&label=Profile%20views&color=0e75b6&style=flat" alt="garaadamiin" /> </p>
 <!--                                                     /Profile Views                                                     -->
 
 <!--                                                     Most Languages                                                     -->
