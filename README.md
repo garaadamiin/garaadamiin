@@ -1,11 +1,6 @@
 <h1 align="center">Garaad Amiin</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
-<!--                                                     Profile Views                                                     -->
-<hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=garaadamiin&label=Profile%20views&color=0e75b6&style=flat" alt="garaadamiin" /> </p>
-<!--                                                     /Profile Views                                                     -->
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://wa.me/+252618434136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/+252618434136" height="30" width="40" /></a>
@@ -17,6 +12,11 @@
 <a href="https://medium.com/@garaadamiin3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@garaadamiin3" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11426595/garaad-amiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11426595/garaad-amiin" height="30" width="40" /></a>
 </p>
+
+<!--                                                     Profile Views                                                     -->
+<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=garaadamiin&label=Profile%20views&color=0e75b6&style=flat" alt="garaadamiin" /> </p>
+<!--                                                     /Profile Views                                                     -->
 
 <!--                                                     Most Languages                                                     -->
 
