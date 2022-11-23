@@ -1,4 +1,4 @@
-![logo](https://github.com/garaadamiin/garaadamiin/blob/main/assets/banner.png)
+![logo](https://github.com/garaadamiin/garaadamiin/blob/main/assets/banner.jpg)
 
 <h1 align="center">Garaad Amiin</h1>
 <h3 align="center">Full Stack Software Developer</h3>
