@@ -22,5 +22,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garaadamiin&" alt="garaadamiin" /></p>
 <!--                                                     /Most Languages                                                     -->
 <!--                                                     Profile Views                                                     -->
+<hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=garaadamiin&label=Profile%20views&color=0e75b6&style=flat" alt="garaadamiin" /> </p>
 <!--                                                     /Profile Views                                                     -->
