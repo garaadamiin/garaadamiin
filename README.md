@@ -14,7 +14,6 @@
 </p>
 
 <!--                                                     Profile Views                                                     -->
-<hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=garaadamiin&label=Profile%20views&color=0e75b6&style=flat" alt="garaadamiin" /> </p>
 <!--                                                     /Profile Views                                                     -->
 
