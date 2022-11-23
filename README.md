@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Garaad Amiin</h1>
+<h3 align="center">Full Stack Software Developer</h3>
 
-<!--
-**garaadamiin/garaadamiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://wa.me/+252618434136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/+252618434136" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100003855809148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100003855809148" height="30" width="40" /></a>
+<a href="https://instagram.com/garaadamiin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/garaadamiin/" height="30" width="40" /></a>
+<a href="https://twitter.com/amiintiger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amiintiger" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/garaad-amiin-736290171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/garaad-amiin-736290171" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@garaadamiin6685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@garaadamiin6685" height="30" width="40" /></a>
+<a href="https://medium.com/@garaadamiin3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@garaadamiin3" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11426595/garaad-amiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11426595/garaad-amiin" height="30" width="40" /></a>
+</p>
