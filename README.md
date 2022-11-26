@@ -21,9 +21,9 @@
 
 <!--                                         Most Languages                                         -->
 <h3 align="center">GitHub Status</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=garaadamiin&theme=dark&show_icons=true&locale=en&layout=compact" alt="garaadamiin" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=garaadamiin&theme=dark&show_icons=true&locale=en&layout=compact&count_private=true" alt="garaadamiin" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=garaadamiin&theme=dark&count_private=true&show_icons=true&locale=en" alt="garaadamiin" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=garaadamiin&theme=dark&" alt="garaadamiin" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=garaadamiin&count_private=true&theme=dark&" alt="garaadamiin" /></p>
 <!--                                         /Most Languages                                         -->
